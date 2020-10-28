@@ -1,7 +1,7 @@
 ## Welcome to awesome game of Tetris
 
 A project based learning activity for people who are getting started with Git and GitHub.
-You can play the game at: https://TechPowerAwaits.github.io/github-games/
+You can play the game at: https://TechPowerAwaits.github.io/js-tetris/
 To play the game:
 1. Go to the **Settings** tab of this repository.
 1. Scroll down to the section titled _GitHub Pages_
